@@ -6,5 +6,13 @@ contacts.db
 ui_*.h
 moc_*.cpp
 *.pro.user
+.qmake.stashbuild/
+*.o
+Makefile
+addressbook
+contacts.db
+ui_*.h
+moc_*.cpp
+*.pro.user
 .qmake.stash
 
