@@ -18,6 +18,22 @@ A desktop AddressBook management application built with Qt/C++.
 - Email
 - Birthday
 
+
+
+## Project Structure
+
+src/ → application logic  
+ui/ → Qt UI forms  
+tests/ → unit tests  
+docs/ → documentation  
+Project: Qt Address Book
+
+Tech Stack
+- C++
+- Qt
+- SQLite
+- Git
+
 ## Build (Debian)
 
 Install Qt:
@@ -32,14 +48,6 @@ make
 Run:
 
 ./addressbook
-
-## Project Structure
-
-src/ → application logic  
-ui/ → Qt UI forms  
-tests/ → unit tests  
-docs/ → documentation  
-
 ## Author
 
 Jyotirmoyee Mandal
