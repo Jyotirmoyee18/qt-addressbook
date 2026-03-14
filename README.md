@@ -43,4 +43,3 @@ docs/ → documentation
 ## Author
 
 Jyotirmoyee Mandal
-B.Tech CSE
